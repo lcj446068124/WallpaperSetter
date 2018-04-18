@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecycleViewTest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_touch_to_top">返回顶部</string>
+    <string name="action_change_span_count">更改列数</string>
+    <string name="_0">0%</string>
+    <string name="download">下载</string>
+    <string name="wallPaper">设为壁纸</string>
+</resources>
