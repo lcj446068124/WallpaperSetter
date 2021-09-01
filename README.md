@@ -1,2 +1,2 @@
-# RecycleViewTest
+# WallpaperSetter
 一个简单的图片浏览下载应用，可自动抓取必应每日一图并设置为壁纸
